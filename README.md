@@ -1,6 +1,6 @@
 <img loading="lazy" width="30px" src="./media/images/image_name.png" alt="image_name png" />
 
-<h1> System Informasi SPP </h1>
+<h1> Portal Perpustakaan </h1>
 <p>
 Aplikasi sederhana ini dibuat sebagai alat bantu Admin ataupun User untuk melakukan peminjaman buku bagi user dan Admin untuk mengelola data user, peminjam, maupun data buku.
 </p>
